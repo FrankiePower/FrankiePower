@@ -59,7 +59,7 @@ A front-end and blockchain developer, passionate about building intuitive interf
 
 ## 📬 Get in Touch
 
-💬 Ask me about **Javascript, Typescript, React, Solidity, NodeJS... or anything [here](mailto:your-email@example.com?subject=Subject&body=Your%20message%20here).**
+💬 Ask me about **Javascript, Typescript, React, Solidity, NodeJS... or anything [here](mailto:ejeziefranklin@gmail.com?subject=Subject&body=Your%20message%20here).**
 
 **Let's connect and build the amazing things 🚀**
 
@@ -69,7 +69,7 @@ A front-end and blockchain developer, passionate about building intuitive interf
  <a href="https://wa.me/2348027410690?text=Hello Franky" target="_blank">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
- <a href="mailto:ejeziefranklin@gmail.com" target="_blank">
+ <a href="mailto:ejeziefranklin@gmail.com?subject=Hello&body=Hi%20there!" target="_blank">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://twitter.com/FrankyEjezie" target="_blank">
