@@ -4,7 +4,7 @@
 
 </div>
 
-I am a front-end and blockchain developer, passionate about building intuitive interfaces and decentralized solutions. I combine modern web development with Web3 technologies to build innovative, scalable, and user-friendly applications.
+A front-end and blockchain developer, passionate about building intuitive interfaces and decentralized solutions. I combine modern web development with Web3 technologies to build innovative, scalable, and user-friendly applications.
 
 <br/>
  
@@ -14,7 +14,7 @@ I am a front-end and blockchain developer, passionate about building intuitive i
 
 ⚡ Fun fact: I like to play chess; not a GM yet, but i have an elo rating of 1400+. That's something right?
 
-✍️ Favourite Quote: "if one's nature is a problem, rather than just problematic, is that I see things in terms of victory or death, and not just victory but total victory. And it's true: I always have. It's either victory, or don't bother. The only thing worth doing is the impossible. Everything else is gray. You're born as a man with the nerves of a soldier, the apprehension of an angel, to lift a phrase, but there is no use for it. You're set up to be a philosopher or a king or Shakespeare, and this is all they give you? This? Twenty- odd years of school which is all instruction in how to be ordinary, and then it's a career, which is not the same thing as existence. I want unlimited things. I want everything. A real love. A real house. A real thing to do every day. I'd rather die if I don't get it - The Gambler,2014"
+✍️ Favourite Quote: "if one's nature is a problem, rather than just problematic, is that I see things in terms of victory or death, and not just victory but total victory. And it's true: I always have. It's either victory, or don't bother. The only thing worth doing is the impossible. Everything else is gray. You're born as a man with the nerves of a soldier, the apprehension of an angel, to lift a phrase, but there is no use for it. You're set up to be a philosopher or a king or Shakespeare, and this is all they give you? This? Twenty- odd years of school which is all instruction in how to be ordinary, and then it's a career, which is not the same thing as existence. I want unlimited things. I want everything. A real love. A real house. A real thing to do every day. I'd rather die if I don't get it - The Gambler, 2014"
 <br/>
 
 ## ✍🏾 You know, I'm something of a writer myself.
@@ -23,8 +23,8 @@ I am a front-end and blockchain developer, passionate about building intuitive i
 <a href='https://medium.com/@ejeziefranklin/wrote-my-first-smart-contract-32d34cc13a38'>Wrote my first smart contract!</a>
 
 <a href='https://medium.com/@ejeziefranklin/stand-proud-you-are-strong-f87cbd6c5804'>Stand proud, You are Strong!</a>
-<br/>
 
+<br/>
 ## 💻 Tech Stack
 <p>
  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>		
@@ -48,10 +48,10 @@ I am a front-end and blockchain developer, passionate about building intuitive i
 <br/>
 
 ## 💻 Blockchains
-<p>  
-  <img src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white"/>
+<p>
+ <img src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white"/>
 </p>
 
  ## 🏆 Achievements
