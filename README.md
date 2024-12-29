@@ -25,6 +25,7 @@ A front-end and blockchain developer, passionate about building intuitive interf
 <a href='https://medium.com/@ejeziefranklin/stand-proud-you-are-strong-f87cbd6c5804'>Stand proud, You are Strong!</a>
 
 <br/>
+
 ## 💻 Tech Stack
 <p>
  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>		
@@ -45,6 +46,7 @@ A front-end and blockchain developer, passionate about building intuitive interf
 <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"/>
 <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
 </p>
+
 <br/>
 
 ## 💻 Blockchains
@@ -54,10 +56,13 @@ A front-end and blockchain developer, passionate about building intuitive interf
  <img src="https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white"/>
 </p>
 
- ## 🏆 Achievements
+<br/>
+
+## 🏆 Achievements
 
 - 🌟 Accepted to ZK Bootcamp,  January 2025.
 
+<br/>
 
 ## 📬 Get in Touch
 
