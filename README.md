@@ -23,7 +23,6 @@ A front-end and blockchain developer, passionate about building intuitive interf
 <a href='https://medium.com/@ejeziefranklin/wrote-my-first-smart-contract-32d34cc13a38'>Wrote my first smart contract!</a>
 
 <a href='https://medium.com/@ejeziefranklin/stand-proud-you-are-strong-f87cbd6c5804'>Stand proud, You are Strong!</a>
-
 <br/>
 
 ## 💻 Tech Stack
@@ -47,22 +46,16 @@ A front-end and blockchain developer, passionate about building intuitive interf
 <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
 </p>
 
-<br/>
-
-## 💻 Blockchains
+## 🔗 Blockchains
 <p>
  <img src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white"/>
  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/>
  <img src="https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white"/>
 </p>
 
-<br/>
-
 ## 🏆 Achievements
 
 - 🌟 Accepted to ZK Bootcamp,  January 2025.
-
-<br/>
 
 ## 📬 Get in Touch
 
