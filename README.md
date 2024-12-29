@@ -59,7 +59,7 @@ A front-end and blockchain developer, passionate about building intuitive interf
 
 ## 📬 Get in Touch
 
-💬 Ask me about **Javascript, Typescript, React, Solidity, NodeJS... or anything [here](ejeziefranklin@gmail.com).**
+💬 Ask me about **Javascript, Typescript, React, Solidity, NodeJS... or anything [here](mailto:your-email@example.com?subject=Subject&body=Your%20message%20here).**
 
 **Let's connect and build the amazing things 🚀**
 
