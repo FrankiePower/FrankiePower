@@ -4,7 +4,7 @@
 
 </div>
 
-I'm a front-end and blockchain developer, passionate about building intuitive interfaces and decentralized solutions. I combine modern web development with Web3 technologies to build innovative, scalable, and user-friendly applications.
+I am a front-end and blockchain developer, passionate about building intuitive interfaces and decentralized solutions. I combine modern web development with Web3 technologies to build innovative, scalable, and user-friendly applications.
 
 <br/>
  
@@ -12,21 +12,17 @@ I'm a front-end and blockchain developer, passionate about building intuitive in
  
 🌱 Learning **Rust and ZK Technology**
 
-💬 Ask me about **Javascript, Typescript, React, Solidity, NodeJS... or anything [here](ejeziefranklin@gmail.com)**
-
 ⚡ Fun fact: I like to play chess; not a GM yet, but i have an elo rating of 1400+. That's something right?
 
-✍️ Favourite Quote: "if one's nature is a problem, rather than just problematic, is that I see things in terms of victory or death, and not just victory but total victory. And it's true: I always have. It's either victory, or don't bother. The only thing worth doing is the impossible. Everything else is gray. You're born as a man with the nerves of a soldier, the apprehension of an angel, to lift a phrase, but there is no use for it. You're set up to be a philosopher or a king or Shakespeare, and this is all they give you? This? Twenty- odd years of school which is all instruction in how to be ordinary, and then it's a career, which is not the same thing as existence. I want unlimited things. I want everything. A real love. A real house. A real thing to do every day. I'd rather die if I don't get it"
-
+✍️ Favourite Quote: "if one's nature is a problem, rather than just problematic, is that I see things in terms of victory or death, and not just victory but total victory. And it's true: I always have. It's either victory, or don't bother. The only thing worth doing is the impossible. Everything else is gray. You're born as a man with the nerves of a soldier, the apprehension of an angel, to lift a phrase, but there is no use for it. You're set up to be a philosopher or a king or Shakespeare, and this is all they give you? This? Twenty- odd years of school which is all instruction in how to be ordinary, and then it's a career, which is not the same thing as existence. I want unlimited things. I want everything. A real love. A real house. A real thing to do every day. I'd rather die if I don't get it - The Gambler,2014"
 <br/>
 
-## ✍🏾 Articles i've written
+## ✍🏾 You know, I'm something of a writer myself.
 <a href='https://medium.com/@ejeziefranklin/web3bridge-here-we-go-dd2324ea7b42'>Web3bridge: Here We Go!</a>
 
 <a href='https://medium.com/@ejeziefranklin/wrote-my-first-smart-contract-32d34cc13a38'>Wrote my first smart contract!</a>
 
 <a href='https://medium.com/@ejeziefranklin/stand-proud-you-are-strong-f87cbd6c5804'>Stand proud, You are Strong!</a>
-
 <br/>
 
 ## 💻 Tech Stack
@@ -46,9 +42,9 @@ I'm a front-end and blockchain developer, passionate about building intuitive in
  <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
  <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
  <img alt="Firebase" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"/>
+<img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"/>
+<img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
 </p>
-
 <br/>
 
 ## 💻 Blockchains
@@ -58,23 +54,19 @@ I'm a front-end and blockchain developer, passionate about building intuitive in
    <img src="https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white"/>
 </p>
 
-## 🌱 Currently Exploring
-   <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-	 <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
-
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
-
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🌟 Accepted to ZK Bootcamp,  January 2025.
 
 
 ## 📬 Get in Touch
+
+💬 Ask me about **Javascript, Typescript, React, Solidity, NodeJS... or anything [here](ejeziefranklin@gmail.com).**
+
+**Let's connect and build the amazing things 🚀**
+
+<br/>
+
 <p>
  <a href="https://wa.me/2348027410690?text=Hello Franky" target="_blank">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -88,7 +80,3 @@ I'm a front-end and blockchain developer, passionate about building intuitive in
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="cesar-useche">
 </a>
 </p>
-
-Let's connect and build the fascinating stuffs. 🚀
-
-
