@@ -53,7 +53,7 @@ A front-end and blockchain developer, passionate about building intuitive interf
  <img src="https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white"/>
 </p>
 
-## 🏆 Achievements
+## 🏆 Recent Achievements
 
 - 🌟 Accepted to ZK Bootcamp,  January 2025.
 
