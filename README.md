@@ -61,7 +61,7 @@ A front-end and blockchain developer, passionate about building intuitive interf
 
 ![FrankiePower's Stats](https://github-readme-stats.vercel.app/api?username=FrankiePower&theme=blue-green&show_icons=true&hide_border=false&count_private=true)
 
-![FrankiePower's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrankiePower&theme=blue-green&hide_border=false)
+![FrankiePower's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrankiePower&theme=nord&hide_border=false)
 
 ![FrankiePower's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankiePower&theme=blue-green&show_icons=true&hide_border=false&layout=compact)
 
