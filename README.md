@@ -57,8 +57,6 @@ A front-end and blockchain developer, passionate about building intuitive interf
 
 - 🌟 Accepted to ZK Bootcamp,  January 2025.
 
-<br>
-
 ## 🏆 Github Stats
 
 ![FrankiePower's Stats](https://github-readme-stats.vercel.app/api?username=FrankiePower&theme=dark&show_icons=true&hide_border=false&count_private=true)
