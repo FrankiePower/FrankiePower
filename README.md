@@ -55,6 +55,8 @@ A front-end and blockchain developer, passionate about building intuitive interf
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=FrankiePower)](https://git.io/streak-stats)
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FrankiePower&theme=dark" alt="GitHub Streak" /></a>
+
 ## 🏆 Recent Achievements
 
 - 🌟 Accepted to ZK Bootcamp,  January 2025.
