@@ -57,6 +57,12 @@ A front-end and blockchain developer, passionate about building intuitive interf
 
 - 🌟 Accepted to ZK Bootcamp,  January 2025.
 
+![FrankiePower's Stats](https://github-readme-stats.vercel.app/api?username=FrankiePower&theme=dark&show_icons=true&hide_border=false&count_private=true)
+
+![FrankiePower's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrankiePower&theme=dark&hide_border=false)
+
+![FrankiePower's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankiePower&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
 ## 📬 Get in Touch
 
 💬 Ask me about **Javascript, Typescript, React, Solidity, NodeJS... or anything [here](mailto:ejeziefranklin@gmail.com?subject=Subject&body=Your%20message%20here).**
