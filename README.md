@@ -53,7 +53,7 @@ A front-end and blockchain developer, passionate about building intuitive interf
  <img src="https://img.shields.io/badge/Stellar-090020?style=for-the-badge&logo=stellar&logoColor=white"/>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=FrankiePower&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FrankiePower)](https://git.io/streak-stats)
 
 ## 🏆 Recent Achievements
 
